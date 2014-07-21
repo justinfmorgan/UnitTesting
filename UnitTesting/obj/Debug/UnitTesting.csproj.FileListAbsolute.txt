@@ -1,0 +1,12 @@
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\nunit.framework.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\WebDriver.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\nunit.framework.xml
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\bin\Debug\WebDriver.xml
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.dll
+c:\users\jmorgan\documents\visual studio 2012\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
